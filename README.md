@@ -2,7 +2,7 @@
 
 ## Install dependecies ##
 ```
-sudo apt-get install build-essential
+sudo apt-get install git build-essential
 ```
 ## Build ##
 ```
